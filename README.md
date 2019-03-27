@@ -4,7 +4,7 @@
 
 This project analyzes data gathered from more than 1000 hotels spread scross 42 Indian cities to predict the major factors that influence the hotel prices across the nation.
 
-# Objectives: 
+## Objectives: 
 
 The major objectives of this report are as follows: 
 1. Identification of factors that drive up the hotel room rents. These factors may be identified based on both machine and human interpretation via: 
